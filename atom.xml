@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>MatrixBlog</title>
   
   
-  <link href="http://jason080705.github.io/MatrixBlog/atom.xml" rel="self"/>
+  <link href="http://jason080705.github.io/atom.xml" rel="self"/>
   
-  <link href="http://jason080705.github.io/MatrixBlog/"/>
-  <updated>2023-10-28T10:44:36.803Z</updated>
-  <id>http://jason080705.github.io/MatrixBlog/</id>
+  <link href="http://jason080705.github.io/"/>
+  <updated>2023-10-29T04:08:45.245Z</updated>
+  <id>http://jason080705.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,9 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>My New Post</title>
+    <link href="http://jason080705.github.io/2023/10/29/My-New-Post/"/>
+    <id>http://jason080705.github.io/2023/10/29/My-New-Post/</id>
+    <published>2023-10-29T04:06:14.000Z</published>
+    <updated>2023-10-29T04:08:45.245Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to the MatrixBlog, the Blog created by</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://jason080705.github.io/MatrixBlog/2023/10/28/hello-world/"/>
-    <id>http://jason080705.github.io/MatrixBlog/2023/10/28/hello-world/</id>
+    <link href="http://jason080705.github.io/2023/10/28/hello-world/"/>
+    <id>http://jason080705.github.io/2023/10/28/hello-world/</id>
     <published>2023-10-28T10:44:36.803Z</published>
     <updated>2023-10-28T10:44:36.803Z</updated>
     
